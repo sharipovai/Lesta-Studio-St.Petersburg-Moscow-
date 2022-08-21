@@ -1,7 +1,7 @@
-Вариант 1
+var 1
 def isEven1(value):
     return value // 2 * 2 == value
-Варинат 2
+va2 2
 def isEven2(value):
     return value&1==0
-Вариант 2 дает выигрыш в скорости по сравнению с Вариантом 1
+var2 faster var1
